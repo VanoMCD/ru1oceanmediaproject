@@ -1,6 +1,6 @@
 // Централизованные контактные данные
 export const CONTACTS = {
-  email: "hello@aqua-relax.com",
+  email: "o666699999@gmail.com",
   whatsapp: "https://wa.me/79166699999",
   telegram: "https://t.me/oceanmedia666",
   vk: "https://vk.com/ocean_media_project",
